@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+$ cat .gitignore
+
+# Ignorar arquivos específicos
+.DS_Store
+
+# Use curingas como
+*~
+*.swp
+
+# Ignorar todos os diretórios e arquivos em um diretório.
+ignore/*
+=======
+ï»¿# Ignorar arquivos especï¿½ficos
+.DS_Store
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+dist
+build
+parts
+bin
+.notes
+.sass-cache
+node_modules
+npm-debug.log
+
+# Ignorar todos os diretorios e arquivos em um diretorio. ignore/*
+/nbproject/
+/ignore/
+>>>>>>> b7dcb6f0fad521b58878de3f3e36d666d2325335
